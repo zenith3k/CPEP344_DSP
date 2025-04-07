@@ -86,6 +86,7 @@ VIVA QUESTIONS:
       
 10. What are separable transforms?
 *Separable transforms allow multi-dimensional processing by applying 1D transforms separately on rows and columns. They're widely used in image and video processing (e.g., 2D DFT, DCT).
+
 Exercise:
 1. Find 8-point DFT of the sequence x (n) = [1 2 3 4 4 3 2 1] 
 
